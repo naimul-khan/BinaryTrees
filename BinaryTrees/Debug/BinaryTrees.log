@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\naimul\source\repos\binarytrees\binarytrees\tree.h(39): warning C4715: 'Tree::search': not all control paths return a value
+  BinaryTrees.vcxproj -> C:\Users\naimul\source\repos\BinaryTrees\Debug\BinaryTrees.exe
