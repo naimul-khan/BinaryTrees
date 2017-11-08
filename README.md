@@ -6,7 +6,7 @@
 			    /  \     \
 			  22    26    33
 			 /  \           
-                        21    23
+                    21    23
 
 So first check if there is root
 - if(root != NULL)
@@ -56,7 +56,7 @@ search(int searchData, treePtr *currentPtr){
 			    /  \     \
 			  22    26    33
 			 /  \           
-                      21    23
+                    21    23
  		
 Printing a list
 
@@ -82,7 +82,7 @@ if(curr->nextLeft != NULL){
 			    /  \     \
 			  22    26    33
 			 /  \           
-                      21    23
+                    21    23
 
 ----------------
 if(curr!=NULL)
