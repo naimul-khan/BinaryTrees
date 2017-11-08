@@ -6,7 +6,7 @@
 			    /  \     \
 			  22    26    33
 			 /  \           
-                      21    23
+                        21    23
 
 So first check if there is root
 - if(root != NULL)
